@@ -1,0 +1,21 @@
+[submodule "lib/gspswitch"]
+	path = lib/gspswitch
+	url = http://github.com/edwar64896/gspswitch.git
+[submodule "lib/gspseven"]
+	path = lib/gspseven
+	url = http://github.com/edwar64896/gspseven.git
+[submodule "lib/gspserialresponse"]
+	path = lib/gspserialresponse
+	url = http://github.com/edwar64896/gspserialresponse.git
+[submodule "lib/gspstreamresponse"]
+	path = lib/gspstreamresponse
+	url = http://github.com/edwar64896/gspstreamresponse.git
+[submodule "lib/gspflash"]
+	path = lib/gspflash
+	url = http://github.com/edwar64896/gspflash.git
+[submodule "lib/gspquad"]
+	path = lib/gspquad
+	url = http://github.com/edwar64896/gspquad.git
+[submodule "lib/gspgrouped"]
+	path = lib/gspgrouped
+	url = http://github.com/edwar64896/gspgrouped.git

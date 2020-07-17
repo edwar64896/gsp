@@ -28,3 +28,9 @@
 [submodule "examples/gspflash_example"]
 	path = examples/gspflash_example
 	url = https://github.com/edwar64896/gspflash_example
+[submodule "examples/gspquad_example"]
+	path = examples/gspquad_example
+	url = https://github.com/edwar64896/gspquad_example
+[submodule "examples/gspserialresponse_example"]
+	path = examples/gspserialresponse_example
+	url = https://github.com/edwar64896/gspserialresponse_example

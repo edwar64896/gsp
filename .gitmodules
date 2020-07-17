@@ -34,3 +34,6 @@
 [submodule "examples/gspserialresponse_example"]
 	path = examples/gspserialresponse_example
 	url = https://github.com/edwar64896/gspserialresponse_example
+[submodule "examples/gspseven_example"]
+	path = examples/gspseven_example
+	url = https://github.com/edwar64896/gspseven_example

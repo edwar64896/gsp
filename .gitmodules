@@ -19,3 +19,12 @@
 [submodule "lib/gspgrouped"]
 	path = lib/gspgrouped
 	url = http://github.com/edwar64896/gspgrouped.git
+[submodule "examples/gspswitch_example_callbacks"]
+	path = examples/gspswitch_example_callbacks
+	url = https://github.com/edwar64896/gspswitch_example_callbacks
+[submodule "examples/gspswitch_example_strings"]
+	path = examples/gspswitch_example_strings
+	url = https://github.com/edwar64896/gspswitch_example_strings
+[submodule "examples/gspflash_example"]
+	path = examples/gspflash_example
+	url = https://github.com/edwar64896/gspflash_example
